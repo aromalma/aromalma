@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aromalma
 - 👀 I’m interested in ML, DL, DSA, Python, C++
-- 🌱 I’m currently learning CUDA programming in numba and Pybind11
 - 📫 aromalma@yahoo.com
 
 <!---
